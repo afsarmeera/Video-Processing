@@ -38,4 +38,4 @@ def FrameCapture(path):
 if __name__ == '__main__': 
   
     # Calling the function 
-    FrameCapture("file:///C:/Users/afsar/Downloads/videoplayback.mp4") 
+    FrameCapture("link to video") 
